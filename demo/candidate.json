@@ -1,0 +1,15 @@
+[{
+  "candidateId" : 1,
+  "candidateName" : "rahul",
+  "candidateAddress" : "test",
+  "candidateAge" : 35,
+  "candidateFatherName" : "raju",
+  "candidateDob" : "15-12-2000",
+  "candidateSkills" : "c,c++",
+  "candidateContact" : 9875643215,
+  "candidateEmail" : "rajuk@yahoo.com",
+  "isExperienced" : false,
+  "yearOfExeperience" : 0,
+  "isAppointed" : false,
+  "appointedOn" : null
+}]
